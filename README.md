@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, eu sou o Wisliy! 👋
+
+- 🔭 Trabalho como Arquiteto de Soluções na [Studio Z](https://www.stz.com.br/)
+- 🌱 Atualmente estou estudando sobre os padrões da arquitetura de microsserviços e modelo de containers utilizando a plataforma Red Hat OpenShift, e integrações entre aplicações com o Red Hat Fuse.
+
 
 <!--
 **wisliy/wisliy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
